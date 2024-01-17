@@ -1,5 +1,6 @@
 # 函館家賃調べ
 函館の家賃を可視化します
+![成果物](https://github.com/yama-yeah/hakodate_rent_dvz/blob/master/%E3%83%8D%E3%82%A4%E3%83%94%E3%82%A2%E6%95%B0%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%BC%B7%E8%AA%BF%E3%81%82%E3%82%8A.png?raw=true)
 
 # 環境構築
 パッケージ管理はRyeを用いて行っています。
