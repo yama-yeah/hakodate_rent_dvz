@@ -1,0 +1,15 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+# 自動生成されたファイル
+data/
+.history/
+.DS_Store
